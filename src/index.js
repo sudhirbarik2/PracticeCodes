@@ -25,6 +25,11 @@ const ARTICLES = [
     date: "2019-01-21",
   },
   {
+    title: "Laugh, live",
+    upvotes: -1,
+    date: "2022-02-01",
+  },
+  {
     title: "the Emu War",
     upvotes: 24,
     date: "2019-10-21",
